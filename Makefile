@@ -6,6 +6,8 @@ GOBIN=$(go env GOPATH)/bin
 
 all: install
 
+build: install
+
 uninstall:
 	rm -f $(GOBIN)/$(BINARY_NAME)
 

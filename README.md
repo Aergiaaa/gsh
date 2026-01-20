@@ -38,16 +38,16 @@ gsh
 
 ### Environment Variables
 
-- `HISTFILE`: Set custom history file location (default: `.gsh_history`)
+- `HISTFILE`: Set custom history file location (default: `~/.gsh_history`)
 
 ### Built-in Commands
 
-echo
-type
-history
-pwd
-cd
-exit
+- echo
+- type
+- history
+- pwd
+- cd
+- exit
 
 ## Examples
 
