@@ -1,4 +1,3 @@
-```markdown
 # gsh
 
 Get some SHell
@@ -79,4 +78,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## Author
 
 Aergiaaa
-```
