@@ -17,8 +17,8 @@ func main() {
 	defer saveHist(history, HISTFILE)
 
 	buffer, err := readline.NewEx(&readline.Config{
-		Prompt:          "$ ",
-		InterruptPrompt: "vvv",
+		Prompt:          "> ",
+		InterruptPrompt: "^ehe",
 		AutoComplete: &builtinCompleter{},
 	})
 	if err != nil {
